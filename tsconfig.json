@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "skipLibCheck": true
+    },
+  "include": ["index.ts"]
+}
